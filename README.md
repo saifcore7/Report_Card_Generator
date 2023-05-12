@@ -7,7 +7,7 @@
 
 
 
-The program above is a basic code written in C programming language that will print a report card as per user details and inputs.You can change the code as per your need and allow it to print according to your preference.Text colors are alos used along with delaying in printing using usleep().
+The program above is a basic code written in C programming language that will print a report card as per user details and inputs.You can change the code as per your need and allow it to print according to your preference.Text colors are also used along with delay in printing using usleep().
 
 
 
