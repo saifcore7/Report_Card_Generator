@@ -33,4 +33,4 @@ Games like Grand Theft Auto(1997) used C as their main language.
 
 
 
-Even Windoes Operating System and Adobe Photoshop and Illustrator are built using C programming language.
+Even Windows Operating System, Adobe Photoshop and Illustrator are built using C programming language.
